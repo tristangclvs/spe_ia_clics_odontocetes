@@ -176,3 +176,4 @@ spectogram_test_images/
 .env_macos/
 *.h5
 *.keras
+notebook_conv1d copy.ipynb
